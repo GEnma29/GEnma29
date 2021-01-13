@@ -19,20 +19,19 @@ const KnowledgeFrontend ={
     Library: 'React.js',
 }
 const KnowledgeBackend ={
-    basesback: 'Sql, Mysql',
+    basesback: 'Sql, Mysql, MongoDB',
     frameworkback: 'Django, ExpressJS, Laravel',
 }
 const Interests = {
     passions: 'AI, IoT',
     hobbies: 'music, exercise, Read'
 }
-const Developer ={
+const EnmanuelDeveloper ={
     ...InfoBasic,
     ...programingLeguage,
     ...KnowledgeFrontend,
     ...KnowledgeBackend,
     ... Interests,
 }
-console.log(Developer);
 
 ```
