@@ -2,13 +2,13 @@
 <div class="container"><h1 class="center">Hi, My name is Enmanuel</h1></di>
 
  I am a Developer Full Stack passionate about the technology,  help excited to build tomorrow world
- ```
+ ```javascript
  const InfoBasic = {
     name: 'Enmanuel',
     age: '23',
     Contry: 'Venezuela',
 };
-const programingLeguage = {
+const ProgramingLeguage = {
     favorite: 'Python',
     moreused: 'Javascript',
     myfirst: 'C',
@@ -28,7 +28,7 @@ const Interests = {
 }
 const EnmanuelDeveloper ={
     ...InfoBasic,
-    ...programingLeguage,
+    ...ProgramingLeguage,
     ...KnowledgeFrontend,
     ...KnowledgeBackend,
     ... Interests,
