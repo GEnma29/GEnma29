@@ -18,7 +18,7 @@ const ProgramingLeguage = {
 }
 const KnowledgeFrontend ={
     basesfront: 'html, Css, jquerry',
-    frameworkfront: 'Bootstrap',
+    frameworkfront: 'Bootstrap, Materialize',
     Library: 'React.js',
 }
 const KnowledgeBackend ={
@@ -28,6 +28,7 @@ const KnowledgeBackend ={
 const Interests = {
     passions: 'AI, IoT',
     hobbies: 'music, exercise, Read'
+    mobile: 'Flutter',
 }
 const EnmanuelDeveloper ={
     ...InfoBasic,
