@@ -1,7 +1,10 @@
 
 <div class="container"><h1 class="center">Hi, My name is Enmanuel</h1></di>
 
- I am a Developer Full Stack passionate about the technology,  help excited to build tomorrow world
+ <p><em>A bachelor student at <a href="http://www.usb.ve/">Universidad Simón Bolívar</a>,  in technology Electronic. 😊</br>
+</em></p>
+
+
  ```javascript
  const InfoBasic = {
     name: 'Enmanuel',
