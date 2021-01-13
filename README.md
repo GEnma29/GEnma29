@@ -39,3 +39,12 @@ const EnmanuelDeveloper ={
 }
 
 ```
+
+
+<h3> 🤝🏻 Connect with Me </h3>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/genmanuel/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@genmanuel-blue?style=flat&logo=linkedin"></a>
+<a href="mailto:genmanuelalfonzo@gmail."><img alt="Email" src="https://img.shields.io/badge/Email-genmanuelalfonzo@gmail.-blue?style=flat&logo=gmail"></a>
+</p>
+
