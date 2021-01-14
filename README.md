@@ -29,7 +29,7 @@ const KnowledgeBackend ={
 }
 const Interests = {
     passions: 'AI, IoT',
-    hobbies: 'music, exercise, Read'
+    hobbies: 'music, exercise, Read',
     mobile: 'Flutter',
 }
 const EnmanuelDeveloper ={
