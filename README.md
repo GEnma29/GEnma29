@@ -1,9 +1,12 @@
 
 <div class="container"><h1 class="center">Hi, My name is Enmanuel</h1></di>
 
+<h2>Full Stack Developer 👨‍💻</h2>
+
  <p><em>A bachelor student at <a href="http://www.usb.ve/">Universidad Simón Bolívar</a>,  in technology Electronic. 😊</br>
 </em></p>
 
+<h3> About me</h3>
 
  ```javascript
  const InfoBasic = {
