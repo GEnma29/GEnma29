@@ -2,7 +2,7 @@
 <div class="container"><h1 class="center">Hi, My name is Enmanuel  I'm a  Full Stack Developer 👨‍💻</h1></di>
 
 
- <p><em>A bachelor student at <a href="http://www.usb.ve/">Universidad Simón Bolívar</a>,  in technology Electronic. 😊</br>
+ <p><em>A bachelor student at <a href="http://www.usb.ve/">Universidad Simón Bolívar</a>,  in Electronic technology. 😊</br>
 </em></p>
 
 <h3> About me</h3>
