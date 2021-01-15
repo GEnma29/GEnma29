@@ -25,7 +25,7 @@ const KnowledgeFrontend ={
 }
 const KnowledgeBackend ={
     basesback: 'Sql, Mysql, MongoDB',
-    frameworkback: 'Django, ExpressJS, Laravel',
+    frameworkback: 'Django, ExpressJS,
 }
 const Interests = {
     passions: 'AI, IoT',
