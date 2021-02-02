@@ -11,7 +11,6 @@
  const InfoBasic = {
     name: 'Enmanuel',
     age: '23',
-    Contry: 'Venezuela',
 };
 const ProgramingLeguage = {
     favorite: 'Python',
