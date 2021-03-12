@@ -11,7 +11,7 @@
  const InfoBasic = {
     name: 'Enmanuel',
     age: '23',
-};
+}
 const ProgramingLeguage = {
     favorite: 'Python',
     moreused: 'Javascript',
