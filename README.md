@@ -26,8 +26,8 @@ const KnowledgeBackend ={
     basesback: 'Sql, Mysql, MongoDB',
     frameworkback: 'Django, ExpressJS,
 }
-const Interests = {
-    passions: 'AI, IoT',
+const Interests ={
+    passions: 'AI, iot',
     hobbies: 'music, exercise, Read',
     mobile: 'Flutter','React native',
 }
